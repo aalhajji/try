@@ -22,7 +22,7 @@ int main() {
 	cout << "Who? " << person << endl;
 	ss >> Expertise;
 	cout << "Expertise? " << Expertise;
-
+cout<<"ana malak";
 }
 
 
